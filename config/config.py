@@ -53,7 +53,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/NEO-O-P/VIP_NEO_EXTRAPLUGIN",
+    "https://github.com/NEO-O-P/Extra-Plugin",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
@@ -96,7 +96,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO",
+    "https://github.com/NEO-O-P/VIP_NEO_REPO",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
