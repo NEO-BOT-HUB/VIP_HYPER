@@ -45,7 +45,7 @@ DURATION_LIMIT_MIN = int(
 
 EXTRA_PLUGINS = getenv(
     "EXTRA_PLUGINS",
-    "True",
+    "false",
 )
 
 # Fill True if you want to load extra plugins
@@ -144,7 +144,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/NEO-O-P/VIP_NEO_REPO")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
