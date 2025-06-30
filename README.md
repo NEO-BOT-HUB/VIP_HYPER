@@ -25,7 +25,7 @@
 </p>
 
 <h2 align="center">
-    ─「 𝐍𝐎𝐁𝐈𝐓𝐀 𝐌𝐔𝐒𝐈𝐂  」─
+    ─「 𝗛𝗬𝗣𝗘𝗥 𝐌𝐔𝐒𝐈𝐂  」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
@@ -53,7 +53,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 
 <p align="center">
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO">
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/NEO-O-P/VIP_NEO_REPO">
         <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
     </a>
 </p>
@@ -64,8 +64,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐊𝐎𝐈+𝐃𝐈𝐊𝐊𝐀𝐓+𝐌𝐒𝐆+𝐊𝐑">
 <p align="center">
-    <a href="https://telegram.me/ll_NOBITA_BOT_DEVLOPER_ll">
-        <img src="https://img.shields.io/badge/-☆ησвιтα вσт мαкєя%20☆-blue.svg?style=for-the-badge&logo=Telegram">
+    <a href="https://telegram.me/GOD_HYPER_O_P">
+        <img src="https://img.shields.io/badge/-☆ʜʏᴘᴇʀ ʙᴏᴛ ᴍᴀᴋᴇʀ%20☆-blue.svg?style=for-the-badge&logo=Telegram">
     </a>
 </p>
 
@@ -74,9 +74,9 @@
 </h3>
 
 ### 🖇 VPS Deployment
-- Clone repo: `git clone https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO && cd VIPNOBITAMUSIC_REPO`
+- Clone repo: `git clone https://github.com/NEO-O-P/VIP_NEO_REPO && cd VIP_NEO_REPO`
 - Setup by: `bash setup`
-- Fill [Extra Variables](https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
+- Fill [Extra Variables](https://github.com/NEO-O-P/VIP_NEO_REPO/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
 - Install tmux: `sudo apt install tmux && tmux`
 - Run the bot: `bash start`
 - To exit tmux session: Press `Ctrl+b` and then `d`
@@ -84,7 +84,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Contact:
-<a href="https://t.me/ll_NOBITA_BOT_DEVLOPER_ll">
+<a href="https://t.me/GOD_HYPER_O_P">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
 <a href="https://instagram.com/NOBITA_BOT_MAKER">
