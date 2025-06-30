@@ -8,13 +8,13 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-![Stars](https://img.shields.io/github/stars/vishalpandeynkp1/VIPNOBITAMUSIC_REPO?style=social)
-![Forks](https://img.shields.io/github/forks/vishalpandeynkp1/VIPNOBITAMUSIC_REPO?style=social)
+![Stars](https://img.shields.io/https://github.com/NEO-O-P/VIP_NEO_REPO?style=social)
+![Forks](https://img.shields.io/https://github.com/NEO-O-P/VIP_NEO_REPO?style=social)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Vishal's GitHub Profile](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1&show_icons=true&theme=flag-india)](https://github.com/vishalpandeynkp1) 
- [![GIF](https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO/blob/main/VIPNOBITAMUSIC.gif)](https://github.com/vishalpandeynkp1)
+ [![GIF](https://github.com/NEO-O-P/VIP_NEO_REPO/blob/main/VIP_NEO_REPO.gif)](https://github.com/NEO-O-P)
    [![NOBITA](https://github-stats-alpha.vercel.app/api?username=vishalpandeynkp1 "NOBITA")](https://github-stats-alpha.vercel.app/api?username=vishalpandeynkp1 "NOBITA")
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
