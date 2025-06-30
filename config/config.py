@@ -114,15 +114,15 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/GOD_HYPER_O_P"
-)  # Example:- https://t.me/GOD_HYPER_O_P
+    "SUPPORT_CHANNEL", "https://t.me/ABOUT_VENOM_OP"
+)  # Example:- https://t.me/ABOUT_VENOM_OP
 SUPPORT_GROUP = getenv(
     "SUPPORT_CHANNEL", "https://t.me/NEO_BOT_SUPPORT"
-)  # Example:- https://t.me/GOD_HYPER_O_P
+)  # Example:- https://t.me/NEO_BOT_SUPPORT
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/GOD_HYPER_O_P"
-)  # Example:- https://t.me/GOD_HYPER_O_P
+    "SUPPORT_CHANNEL", "https://t.me/FEELING_SMILEY"
+)  # Example:- https://t.me/FEELING_SMILEY
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
 
@@ -227,57 +227,57 @@ PING_IMG_URL = getenv(
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://iili.io/FRS8J2V.md.jpg",
+    "https://iili.io/F5kvTXI.md.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://iili.io/FRS8J2V.md.jpg",
+    "https://iili.io/F5kvTXI.md.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://iili.io/FRS8J2V.md.jpg",
+    "https://iili.io/F5kvTXI.md.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://iili.io/FRS8J2V.md.jpg",
+    "https://iili.io/F5kvTXI.md.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://iili.io/FRS8J2V.md.jpg",
+    "https://iili.io/F5kvTXI.md.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://iili.io/FRS8J2V.md.jpg",
+    "https://iili.io/F5kvTXI.md.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://iili.io/FRS8J2V.md.jpg",
+    "https://iili.io/F5kvTXI.md.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://iili.io/FRS8J2V.md.jpg",
+    "https://iili.io/F5kvTXI.md.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://iili.io/FRS8J2V.md.jpg",
+    "https://iili.io/F5kvTXI.md.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "https://iili.io/FRS8J2V.md.jpg",
+    "https://iili.io/F5kvTXI.md.jpg",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "https://iili.io/FRS8J2V.md.jpg",
+    "https://iili.io/F5kvTXI.md.jpg",
 )
 
 
