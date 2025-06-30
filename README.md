@@ -13,9 +13,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Vishal's GitHub Profile](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1&show_icons=true&theme=flag-india)](https://github.com/vishalpandeynkp1) 
+[![Vishal's GitHub Profile](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1&show_icons=true&theme=flag-india)](https://github.com/NEO-O-P) 
  [![GIF](https://github.com/NEO-O-P/VIP_NEO_REPO/blob/main/VIP_NEO_REPO.gif)](https://github.com/NEO-O-P)
-   [![NOBITA](https://github-stats-alpha.vercel.app/api?username=vishalpandeynkp1 "HYPER")](https://github-stats-alpha.vercel.app/api?username=vishalpandeynkp1 "NOBITA")
+   [![HYPER](https://github-stats-alpha.vercel.app/api?username=NEO-O-P "HYPER")](https://github-stats-alpha.vercel.app/api?username=NEO-O-P "NOBITA")
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
