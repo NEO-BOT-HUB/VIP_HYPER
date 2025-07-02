@@ -45,7 +45,7 @@ DURATION_LIMIT_MIN = int(
 
 EXTRA_PLUGINS = getenv(
     "EXTRA_PLUGINS",
-    "false",
+    "True",
 )
 
 # Fill True if you want to load extra plugins
@@ -53,7 +53,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/NEO-O-P/Extra-Plugin",
+    "https://github.com/NEO-O-P/Extra-plugins",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
